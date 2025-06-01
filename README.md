@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid Ahmed</h1>
-<h3 align="center">Fullstack Developer based in 🇬🇧 currently in 🇰🇪</h3>
+<h3 align="center">Fullstack Developer based in 🇬🇧 </h3>
 
 ---
 
