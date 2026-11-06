@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **real-world full stack projects** to sharpen my skills  
 - 🌱 I’m exploring new ways to build **efficient and modern web apps**
 - 💬 Ask me about **JavaScript, Python, React, Flask, Tailwind, or design tools like Figma & Canva**
-- <img src="https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg" alt="Arsenal Logo" width="20"/> Proud Arsenal supporter — just waiting for that 🏆 Premier League trophy to land in our cabinet!
+- <img src="https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg" alt="Arsenal Logo" width="20"/> Proud Arsenal supporter
 
 ---
 
